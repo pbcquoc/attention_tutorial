@@ -19,8 +19,10 @@ Cơ chế attention chỉ đơn giản là trung bình có trọng số của nh
 Mình đã phát sinh tổng cộng 20k mẫu, trong đó 5k dùng để validation.
 
 ## Kết quả
-Vì tập dữ liệu mình dùng để minh họa khá đơn giản, nên chỉ cần sau 3 epochs bạn đã có kết quả tương đối chính xác. Mình huấn luyện đến 10 epochs thì loss là 0.023 trên tập validation. 
+Vì tập dữ liệu mình dùng để minh họa khá đơn giản, nên chỉ cần sau 3 epochs bạn đã có kết quả tương đối chính xác. Mình huấn luyện đến 10 epochs thì loss là 0.023 trên tập validation.
 
-Ở ví dụ trên, các bạn có thể thấy rằng 
+Dưới này là một minh họa của câu đầu vào là “05 thg 5 2017”, các bạn có thể thấy rằng các phần ngày tháng năm khi phát sinh đều được mô hình chú ý một cách đúng lúc và chính xác.
+
+![result](/img/attn_ex_2.png)
 ## Any Problems?
 Nếu có bất kì câu hỏi gì, các bạn có thể liên hệ mình thông qua địa chỉ pbcquoc@gmail.com nhé !.
