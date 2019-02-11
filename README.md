@@ -7,7 +7,7 @@
 ## Dataset
 Để minh họa cơ chế attention, mình sử dụng tập dataset tự phát sinh như sau
 | Input        | Label           |
-| ------------- |-------------|
+|-------------|-------------|
 | 12, thg 9 2010      | 2010-09-12 |
 | Thứ Tư, ngày 21 tháng 3 năm 1973      | 1973-03-21      |
 | 31 thg 7, 1988 | 1988-07-31      |
