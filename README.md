@@ -1,4 +1,4 @@
-# Tìm hiểu và áp dụng cơ chế attention trong deep learning
+# Tìm hiểu và áp dụng cơ chế attention trong deep learning - Understanding Attention Mechanism
 ## Giới Thiệu
 Ở git này, mình cung cấp cho các bạn cài đặt chi tiết của cơ chế attention trong bài toàn seq2seq đã được đơn giản hóa. Đồng thời giải nghĩa kết quả tại mỗi thời điểm thông qua cơ chế này. Git này để phục vụ cho blog về attention mà mình đã viết, các bạn có thể đọc thêm tại [đây](https://pbcquoc.github.io/attention/) nhé.
 ## Tổng quan cơ chế attention trong deep learning
